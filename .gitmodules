@@ -59,3 +59,7 @@
 	path = googleComputeEngineR
 	url = https://github.com/cloudyr/googlecomputeenginer
 	shallow = true
+[submodule "imguR"]
+	path = imguR
+	url = https://github.com/cloudyr/imguR
+	shallow = true
