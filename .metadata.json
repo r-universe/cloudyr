@@ -1,0 +1,62 @@
+[
+  {
+    "package": "aws.comprehend",
+    "oncran": true
+  },
+  {
+    "package": "aws.ec2metadata",
+    "oncran": true
+  },
+  {
+    "package": "aws.iam",
+    "oncran": true
+  },
+  {
+    "package": "aws.kms",
+    "oncran": true
+  },
+  {
+    "package": "aws.lambda",
+    "oncran": true
+  },
+  {
+    "package": "aws.polly",
+    "oncran": true
+  },
+  {
+    "package": "aws.s3",
+    "oncran": true
+  },
+  {
+    "package": "aws.signature",
+    "oncran": true
+  },
+  {
+    "package": "aws.transcribe",
+    "oncran": true
+  },
+  {
+    "package": "aws.translate",
+    "oncran": true
+  },
+  {
+    "package": "bigQueryR",
+    "oncran": true
+  },
+  {
+    "package": "googleCloudStorageR",
+    "oncran": true
+  },
+  {
+    "package": "googleCloudVisionR",
+    "oncran": true
+  },
+  {
+    "package": "googleComputeEngineR",
+    "oncran": true
+  },
+  {
+    "package": "imguR",
+    "oncran": false
+  }
+]
