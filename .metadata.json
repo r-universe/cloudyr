@@ -57,6 +57,6 @@
   },
   {
     "package": "imguR",
-    "oncran": false
+    "oncran": true
   }
 ]

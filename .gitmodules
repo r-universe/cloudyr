@@ -75,6 +75,6 @@
 	registered = true
 [submodule "imguR"]
 	path = imguR
-	url = https://github.com/cloudyr/imguR
+	url = https://github.com/cloudyr/imgur
 	shallow = true
 	registered = true
