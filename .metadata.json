@@ -54,5 +54,9 @@
   {
     "package": "googleComputeEngineR",
     "oncran": true
+  },
+  {
+    "package": "imguR",
+    "oncran": true
   }
 ]
