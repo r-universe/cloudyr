@@ -1,0 +1,8 @@
+[
+  {
+    "package": "googleAuthR",
+    "url": "https://github.com/MarkEdmondson1234/googleAuthR",
+    "via": ["googleCloudStorageR"],
+    "from": "googleCloudStorageR"
+  }
+]

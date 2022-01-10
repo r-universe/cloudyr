@@ -78,3 +78,8 @@
 	url = https://github.com/cloudyr/imgur
 	shallow = true
 	registered = true
+[submodule "googleAuthR"]
+	path = googleAuthR
+	url = https://github.com/MarkEdmondson1234/googleAuthR
+	shallow = true
+	registered = false
