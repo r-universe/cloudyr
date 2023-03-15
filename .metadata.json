@@ -1,26 +1,6 @@
 [
   {
-    "package": "googleCloudVisionR",
-    "oncran": true
-  },
-  {
-    "package": "aws.kms",
-    "oncran": true
-  },
-  {
-    "package": "aws.s3",
-    "oncran": true
-  },
-  {
-    "package": "aws.iam",
-    "oncran": true
-  },
-  {
-    "package": "aws.lambda",
-    "oncran": true
-  },
-  {
-    "package": "aws.signature",
+    "package": "aws.comprehend",
     "oncran": true
   },
   {
@@ -28,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "imguR",
+    "package": "aws.iam",
     "oncran": true
   },
   {
-    "package": "aws.transcribe",
+    "package": "aws.kms",
+    "oncran": true
+  },
+  {
+    "package": "aws.lambda",
     "oncran": true
   },
   {
@@ -40,11 +24,23 @@
     "oncran": true
   },
   {
+    "package": "aws.s3",
+    "oncran": true
+  },
+  {
+    "package": "aws.signature",
+    "oncran": true
+  },
+  {
+    "package": "aws.transcribe",
+    "oncran": true
+  },
+  {
     "package": "aws.translate",
     "oncran": true
   },
   {
-    "package": "aws.comprehend",
+    "package": "bigQueryR",
     "oncran": true
   },
   {
@@ -52,11 +48,15 @@
     "oncran": true
   },
   {
+    "package": "googleCloudVisionR",
+    "oncran": true
+  },
+  {
     "package": "googleComputeEngineR",
     "oncran": true
   },
   {
-    "package": "bigQueryR",
+    "package": "imguR",
     "oncran": true
   }
 ]
