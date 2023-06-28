@@ -1,85 +1,53 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "aws.comprehend"]
 	path = aws.comprehend
 	url = https://github.com/cloudyr/aws.comprehend
-	shallow = true
-	registered = true
 [submodule "aws.ec2metadata"]
 	path = aws.ec2metadata
 	url = https://github.com/cloudyr/aws.ec2metadata
-	shallow = true
-	registered = true
 [submodule "aws.iam"]
 	path = aws.iam
 	url = https://github.com/cloudyr/aws.iam
-	shallow = true
-	registered = true
 [submodule "aws.kms"]
 	path = aws.kms
 	url = https://github.com/cloudyr/aws.kms
-	shallow = true
-	registered = true
 [submodule "aws.lambda"]
 	path = aws.lambda
 	url = https://github.com/cloudyr/aws.lambda
-	shallow = true
-	registered = true
 [submodule "aws.polly"]
 	path = aws.polly
 	url = https://github.com/cloudyr/aws.polly
-	shallow = true
-	registered = true
 [submodule "aws.s3"]
 	path = aws.s3
 	url = https://github.com/cloudyr/aws.s3
-	shallow = true
-	registered = true
 [submodule "aws.signature"]
 	path = aws.signature
 	url = https://github.com/cloudyr/aws.signature
-	shallow = true
-	registered = true
 [submodule "aws.transcribe"]
 	path = aws.transcribe
 	url = https://github.com/cloudyr/aws.transcribe
-	shallow = true
-	registered = true
 [submodule "aws.translate"]
 	path = aws.translate
 	url = https://github.com/cloudyr/aws.translate
-	shallow = true
-	registered = true
 [submodule "bigQueryR"]
 	path = bigQueryR
 	url = https://github.com/cloudyr/bigqueryr
-	shallow = true
-	registered = true
 [submodule "googleCloudStorageR"]
 	path = googleCloudStorageR
 	url = https://github.com/cloudyr/googlecloudstorager
-	shallow = true
-	registered = true
 [submodule "googleCloudVisionR"]
 	path = googleCloudVisionR
 	url = https://github.com/cloudyr/googlecloudvisionr
-	shallow = true
-	registered = true
 [submodule "googleComputeEngineR"]
 	path = googleComputeEngineR
 	url = https://github.com/cloudyr/googlecomputeenginer
-	shallow = true
-	registered = true
 [submodule "imguR"]
 	path = imguR
 	url = https://github.com/cloudyr/imgur
-	shallow = true
-	registered = true
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/MarkEdmondson1234/googleAuthR
-	shallow = true
 	registered = false
