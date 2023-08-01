@@ -35,6 +35,10 @@
 [submodule "bigQueryR"]
 	path = bigQueryR
 	url = https://github.com/cloudyr/bigqueryr
+[submodule "googleAuthR"]
+	path = googleAuthR
+	url = https://github.com/MarkEdmondson1234/googleAuthR
+	registered = false
 [submodule "googleCloudStorageR"]
 	path = googleCloudStorageR
 	url = https://github.com/cloudyr/googlecloudstorager
@@ -47,7 +51,3 @@
 [submodule "imguR"]
 	path = imguR
 	url = https://github.com/cloudyr/imgur
-[submodule "googleAuthR"]
-	path = googleAuthR
-	url = https://github.com/MarkEdmondson1234/googleAuthR
-	registered = false
