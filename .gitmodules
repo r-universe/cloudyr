@@ -32,9 +32,6 @@
 [submodule "aws.translate"]
 	path = aws.translate
 	url = https://github.com/cloudyr/aws.translate
-[submodule "bigQueryR"]
-	path = bigQueryR
-	url = https://github.com/cloudyr/bigqueryr
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/MarkEdmondson1234/googleAuthR
