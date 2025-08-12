@@ -42,9 +42,6 @@
 [submodule "googleCloudVisionR"]
 	path = googleCloudVisionR
 	url = https://github.com/cloudyr/googlecloudvisionr
-[submodule "googleComputeEngineR"]
-	path = googleComputeEngineR
-	url = https://github.com/cloudyr/googlecomputeenginer
 [submodule "imguR"]
 	path = imguR
 	url = https://github.com/cloudyr/imgur
