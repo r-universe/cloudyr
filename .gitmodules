@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aws.comprehend"]
-	path = aws.comprehend
-	url = https://github.com/cloudyr/aws.comprehend
 [submodule "aws.ec2metadata"]
 	path = aws.ec2metadata
 	url = https://github.com/cloudyr/aws.ec2metadata
